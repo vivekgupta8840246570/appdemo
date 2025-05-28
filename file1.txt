@@ -1,1 +1,2 @@
 Hello this is Linux class
+This is new rebasing merging line  
