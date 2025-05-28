@@ -2,3 +2,4 @@ Hello this is Linux class
 Hello this is rebase file 
 This is new rebasing merging line 
 Hello yar 
+This is my last command for today
